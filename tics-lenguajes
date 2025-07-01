@@ -1,0 +1,225 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMXkD2zrBIyp+SZFiZV7D+w",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Deyvi10/Hola-mundo/blob/fernando_pichucho/tics-lenguajes\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo en python\n",
+        " el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/"
+      ],
+      "metadata": {
+        "id": "Lrl9Gn79o7VT"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "zu5kW1X9oE9h",
+        "outputId": "257abde5-317f-45da-fc15-7688cb097695"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hola mundo\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Hola mundo\")"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo en javaScript el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/"
+      ],
+      "metadata": {
+        "id": "myItu8Toqjvf"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "console.log(\"Hola mundo\");"
+      ],
+      "metadata": {
+        "id": "0nSxoDtWoz1a"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo en java el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/\n"
+      ],
+      "metadata": {
+        "id": "Ji1ZaFI0qoV8"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "public class HolaMundo {\n",
+        "    public static void main(String[] args) {\n",
+        "        System.out.println(\"Hola mundo\");\n",
+        "    }\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "Dz-7Q7KDqrrx"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo en C el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/\n"
+      ],
+      "metadata": {
+        "id": "X3JWUVS7qsR2"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#include <stdio.h>\n",
+        "\n",
+        "int main() {\n",
+        "    printf(\"Hola mundo\\n\");\n",
+        "    return 0;\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "ulttX8iHqwHU"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo en Rust el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/\n"
+      ],
+      "metadata": {
+        "id": "nPK5JL3HqxmO"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "fn main() {\n",
+        "    println!(\"Hola mundo\");\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "dzk3NDUIqzFW"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo en C++ el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/"
+      ],
+      "metadata": {
+        "id": "3phja5_DsDhI"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#include <iostream>\n",
+        "\n",
+        "int main() {\n",
+        "    std::cout << \"Hola mundo\" << std::endl;\n",
+        "    return 0;\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "VRFa_oCcsJ0_"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo enGO (goland) el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/"
+      ],
+      "metadata": {
+        "id": "W0gS4nBqsKWV"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "package main\n",
+        "\n",
+        "import \"fmt\"\n",
+        "\n",
+        "func main() {\n",
+        "    fmt.Println(\"Hola mundo\")\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "5fIqdrXKsLOM"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Hola mundo en Ruby el codigo fue obtenido mediante la herramienta de Ia https://chat.deepseek.com/"
+      ],
+      "metadata": {
+        "id": "CLHFyM4jsLXW"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "puts \"Hola mundo\""
+      ],
+      "metadata": {
+        "id": "O3dfhIp-sMbg"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
